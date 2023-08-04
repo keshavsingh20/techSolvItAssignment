@@ -1,6 +1,6 @@
 # techSolvItAssignment : Contact Us Form
 Form is live on the following url. By using the url you can access the form and data will be submitted to the database.
-http://tscontactus.great-site.net/
+(http://tscontact.great-site.net/)
 
 
 ## Requirements
@@ -30,7 +30,7 @@ CREATE TABLE contact_form (
 
 
 ## Usage
-Access the contact form by navigating to your domain for eg. (http://tscontactus.great-site.net/) or your localhost server.
+Access the contact form by navigating to your domain for eg. (http://tscontact.great-site.net/) or your localhost server.
 
 Fill out the form fields (Full Name, Phone Number, Email, Subject, Message).
 
